@@ -2,7 +2,7 @@
 int main(){
 
     int number;
-
+// bleeee
     printf("Enter any Number: ");
     scanf("%d", &number);
     if(number % 2 == 0){
